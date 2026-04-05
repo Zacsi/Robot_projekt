@@ -1,0 +1,39 @@
+-- The C compiler identification is GNU 13.3.0
+-- The CXX compiler identification is GNU 13.3.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 2.5.5 (/opt/ros/jazzy/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+-- Configuring done (0.6s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/telegdicsongor/Robot_projekt/pparm_ws/build/pparm_ros2
+-- Install configuration: ""
+-- Installing: /home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/pparm_ros2/launch
+-- Installing: /home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/pparm_ros2/launch/pp_world.launch.py
+-- Installing: /home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/pparm_ros2/worlds
+-- Installing: /home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/pparm_ros2/worlds/pp_world.sdf
+-- Installing: /home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/pparm_ros2/urdf
+-- Installing: /home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/pparm_ros2/meshes
+-- Installing: /home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/ament_index/resource_index/package_run_dependencies/pparm_ros2
+-- Installing: /home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/ament_index/resource_index/parent_prefix_path/pparm_ros2
+-- Installing: /home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/pparm_ros2/environment/ament_prefix_path.sh
+-- Installing: /home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/pparm_ros2/environment/ament_prefix_path.dsv
+-- Installing: /home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/pparm_ros2/environment/path.sh
+-- Installing: /home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/pparm_ros2/environment/path.dsv
+-- Installing: /home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/pparm_ros2/local_setup.bash
+-- Installing: /home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/pparm_ros2/local_setup.sh
+-- Installing: /home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/pparm_ros2/local_setup.zsh
+-- Installing: /home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/pparm_ros2/local_setup.dsv
+-- Installing: /home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/pparm_ros2/package.dsv
+-- Installing: /home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/ament_index/resource_index/packages/pparm_ros2
+-- Installing: /home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/pparm_ros2/cmake/pparm_ros2Config.cmake
+-- Installing: /home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/pparm_ros2/cmake/pparm_ros2Config-version.cmake
+-- Installing: /home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/pparm_ros2/package.xml

@@ -1,0 +1,17 @@
+/home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/pparm_ros2/launch/pp_world.launch.py
+/home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/pparm_ros2/worlds/pp_world.sdf
+/home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/ament_index/resource_index/package_run_dependencies/pparm_ros2
+/home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/ament_index/resource_index/parent_prefix_path/pparm_ros2
+/home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/pparm_ros2/environment/ament_prefix_path.sh
+/home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/pparm_ros2/environment/ament_prefix_path.dsv
+/home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/pparm_ros2/environment/path.sh
+/home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/pparm_ros2/environment/path.dsv
+/home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/pparm_ros2/local_setup.bash
+/home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/pparm_ros2/local_setup.sh
+/home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/pparm_ros2/local_setup.zsh
+/home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/pparm_ros2/local_setup.dsv
+/home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/pparm_ros2/package.dsv
+/home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/ament_index/resource_index/packages/pparm_ros2
+/home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/pparm_ros2/cmake/pparm_ros2Config.cmake
+/home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/pparm_ros2/cmake/pparm_ros2Config-version.cmake
+/home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/pparm_ros2/package.xml

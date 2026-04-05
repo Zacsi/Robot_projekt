@@ -1,0 +1,9 @@
+/home/telegdicsongor/Robot_projekt/pparm_ws/build/pparm_ros2/CMakeFiles/uninstall.dir
+/home/telegdicsongor/Robot_projekt/pparm_ws/build/pparm_ros2/CMakeFiles/pparm_ros2_uninstall.dir
+/home/telegdicsongor/Robot_projekt/pparm_ws/build/pparm_ros2/CMakeFiles/test.dir
+/home/telegdicsongor/Robot_projekt/pparm_ws/build/pparm_ros2/CMakeFiles/edit_cache.dir
+/home/telegdicsongor/Robot_projekt/pparm_ws/build/pparm_ros2/CMakeFiles/rebuild_cache.dir
+/home/telegdicsongor/Robot_projekt/pparm_ws/build/pparm_ros2/CMakeFiles/list_install_components.dir
+/home/telegdicsongor/Robot_projekt/pparm_ws/build/pparm_ros2/CMakeFiles/install.dir
+/home/telegdicsongor/Robot_projekt/pparm_ws/build/pparm_ros2/CMakeFiles/install/local.dir
+/home/telegdicsongor/Robot_projekt/pparm_ws/build/pparm_ros2/CMakeFiles/install/strip.dir
