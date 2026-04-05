@@ -47,6 +47,7 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT
     "/home/telegdicsongor/Robot_projekt/pparm_ws/src/pparm_ros2/launch"
     "/home/telegdicsongor/Robot_projekt/pparm_ws/src/pparm_ros2/worlds"
     "/home/telegdicsongor/Robot_projekt/pparm_ws/src/pparm_ros2/urdf"
+    "/home/telegdicsongor/Robot_projekt/pparm_ws/src/pparm_ros2/rviz"
     "/home/telegdicsongor/Robot_projekt/pparm_ws/src/pparm_ros2/meshes"
     )
 endif()

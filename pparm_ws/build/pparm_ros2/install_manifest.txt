@@ -1,5 +1,8 @@
 /home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/pparm_ros2/launch/pp_world.launch.py
+/home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/pparm_ros2/launch/check_urdf.launch.py
 /home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/pparm_ros2/worlds/pp_world.sdf
+/home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/pparm_ros2/urdf/arm.urdf
+/home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/pparm_ros2/rviz/rviz_config.rviz
 /home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/ament_index/resource_index/package_run_dependencies/pparm_ros2
 /home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/ament_index/resource_index/parent_prefix_path/pparm_ros2
 /home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/pparm_ros2/environment/ament_prefix_path.sh

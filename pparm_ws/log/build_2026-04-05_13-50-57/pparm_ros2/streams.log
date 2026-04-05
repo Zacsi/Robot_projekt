@@ -1,0 +1,48 @@
+[0.008s] Invoking command in '/home/telegdicsongor/Robot_projekt/pparm_ws/build/pparm_ros2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/telegdicsongor/Robot_projekt/pparm_ws/src/pparm_ros2 -DCMAKE_INSTALL_PREFIX=/home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2
+[0.153s] -- The C compiler identification is GNU 13.3.0
+[0.248s] -- The CXX compiler identification is GNU 13.3.0
+[0.260s] -- Detecting C compiler ABI info
+[0.312s] -- Detecting C compiler ABI info - done
+[0.321s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.321s] -- Detecting C compile features
+[0.321s] -- Detecting C compile features - done
+[0.327s] -- Detecting CXX compiler ABI info
+[0.374s] -- Detecting CXX compiler ABI info - done
+[0.379s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.379s] -- Detecting CXX compile features
+[0.380s] -- Detecting CXX compile features - done
+[0.389s] -- Found ament_cmake: 2.5.5 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.504s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[0.632s] -- Configuring done (0.6s)
+[0.634s] -- Generating done (0.0s)
+[0.635s] -- Build files have been written to: /home/telegdicsongor/Robot_projekt/pparm_ws/build/pparm_ros2
+[0.639s] Invoked command in '/home/telegdicsongor/Robot_projekt/pparm_ws/build/pparm_ros2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/telegdicsongor/Robot_projekt/pparm_ws/src/pparm_ros2 -DCMAKE_INSTALL_PREFIX=/home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2
+[0.640s] Invoking command in '/home/telegdicsongor/Robot_projekt/pparm_ws/build/pparm_ros2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/telegdicsongor/Robot_projekt/pparm_ws/build/pparm_ros2 -- -j4 -l4
+[0.660s] Invoked command in '/home/telegdicsongor/Robot_projekt/pparm_ws/build/pparm_ros2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/telegdicsongor/Robot_projekt/pparm_ws/build/pparm_ros2 -- -j4 -l4
+[0.664s] Invoking command in '/home/telegdicsongor/Robot_projekt/pparm_ws/build/pparm_ros2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/telegdicsongor/Robot_projekt/pparm_ws/build/pparm_ros2
+[0.668s] -- Install configuration: ""
+[0.668s] -- Installing: /home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/pparm_ros2/launch
+[0.668s] -- Installing: /home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/pparm_ros2/launch/pp_world.launch.py
+[0.668s] -- Installing: /home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/pparm_ros2/launch/check_urdf.launch.py
+[0.668s] -- Installing: /home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/pparm_ros2/worlds
+[0.669s] -- Installing: /home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/pparm_ros2/worlds/pp_world.sdf
+[0.669s] -- Installing: /home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/pparm_ros2/urdf
+[0.669s] -- Installing: /home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/pparm_ros2/urdf/arm.urdf
+[0.669s] -- Installing: /home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/pparm_ros2/rviz
+[0.669s] -- Installing: /home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/pparm_ros2/meshes
+[0.669s] -- Installing: /home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/ament_index/resource_index/package_run_dependencies/pparm_ros2
+[0.669s] -- Installing: /home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/ament_index/resource_index/parent_prefix_path/pparm_ros2
+[0.669s] -- Installing: /home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/pparm_ros2/environment/ament_prefix_path.sh
+[0.669s] -- Installing: /home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/pparm_ros2/environment/ament_prefix_path.dsv
+[0.669s] -- Installing: /home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/pparm_ros2/environment/path.sh
+[0.669s] -- Installing: /home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/pparm_ros2/environment/path.dsv
+[0.670s] -- Installing: /home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/pparm_ros2/local_setup.bash
+[0.670s] -- Installing: /home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/pparm_ros2/local_setup.sh
+[0.670s] -- Installing: /home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/pparm_ros2/local_setup.zsh
+[0.670s] -- Installing: /home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/pparm_ros2/local_setup.dsv
+[0.670s] -- Installing: /home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/pparm_ros2/package.dsv
+[0.670s] -- Installing: /home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/ament_index/resource_index/packages/pparm_ros2
+[0.670s] -- Installing: /home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/pparm_ros2/cmake/pparm_ros2Config.cmake
+[0.670s] -- Installing: /home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/pparm_ros2/cmake/pparm_ros2Config-version.cmake
+[0.670s] -- Installing: /home/telegdicsongor/Robot_projekt/pparm_ws/install/pparm_ros2/share/pparm_ros2/package.xml
+[0.671s] Invoked command in '/home/telegdicsongor/Robot_projekt/pparm_ws/build/pparm_ros2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/telegdicsongor/Robot_projekt/pparm_ws/build/pparm_ros2
