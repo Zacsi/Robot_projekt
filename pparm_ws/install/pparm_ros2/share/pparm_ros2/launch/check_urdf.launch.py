@@ -8,7 +8,7 @@ from launch_ros.substitutions import FindPackageShare
 def generate_launch_description():
     
     pkg_pparm_ros2 = FindPackageShare('pparm_ros2')
-    default_rviz_config_path = PathJoinSubstitution([pkg_pparm_ros2, 'rviz', 'urdf.rviz'])
+    default_rviz_config_path = PathJoinSubstitution([pkg_pparm_ros2, 'rviz', 'main_urdf_config.rviz'])
 
     # Show joint state publisher GUI for joints
     gui_arg = DeclareLaunchArgument(name='gui', default_value='true', choices=['true', 'false'],
